@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=/matrix505.matrix505"/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Matthew+Suarez!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=21&pause=1000&color=DC3BF7&width=435&lines=Hello%2C+World!;I%27m+Matt!;" />
 </h1>
 
 <h3 align="center">Studies at Mapua Malayan Colleges Laguna</h3>
