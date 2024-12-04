@@ -48,7 +48,7 @@
 
 <div align="center">
   <h3>Contributions</h3>
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/matrix505/matrix505/output/snake.svg" alt="Snake animation" />
   
 </div>
 
