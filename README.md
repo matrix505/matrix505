@@ -48,7 +48,7 @@
 
 <div align="center">
   <h3>Contributions</h3>
-  <img src="https://raw.githubusercontent.com/matrix505/matrix505/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/matrix505/matrix505/output/github-snake-dark.svg" alt="Snake animation" />
   
 </div>
 
@@ -57,10 +57,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-matrix505.vercel.app/?user=matrix505&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-matrix505.vercel.app/api?username=matrix505&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-matrix505.vercel.app/api/top-langs/?username=matrix505&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matrix505&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matrix505&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 </div>
 
 <br/><br/>
