@@ -28,12 +28,14 @@
 
  <hr/>
  
-<h3 align="center">Programming Languages</h3>
-<div align="center">
-    <img  src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+<h3 align="center">Programming Languages & Frameworks</h3>
+<div align="left">
+    <img  src="https://skillicons.dev/icons?i=java,python,php,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,mysql" /><br>
 </div>
-
+<br/>
+<h3 align="center">Tools</h3>
+<img src="https://skillicons.dev/icons?i=vscode" /><br>
 <br/>
 <hr/>
 
