@@ -4,14 +4,22 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=40&duration=3000&pause=1000&color=DC3BF7&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I%27m+Matt!;" />
 </h1>
 
-<h3 align="center">Studies at Mapua Malayan Colleges Laguna</h3>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&duration=2000&pause=1000&color=C83535&repeat=false&width=400&lines=Mapua+Malayan+Colleges+Laguna">
+</div>
 
 <br/>
 <br/>
 
 <div align="left">
+    <h3>Currently status</h3>
+
+ <ul>
+     <li>I love coding so much</li>
+     <li>1st Year BS Computer Science</li>
+     <li>I’m currently learning **Git, HTML, CSS, JavaScript**</li>
+ </ul>
  
- 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
  </div>
  <br/>
@@ -28,9 +36,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
  <hr/>
- 
 <h3 align="left">Programming Languages & Frameworks</h3>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=java,python,php,html,css,javascript" />
