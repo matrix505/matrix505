@@ -19,7 +19,7 @@
  <h3> Contact me on: </h3>
 <div align="left"> 
   <a href="mailto:mathewsuarez20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/mathewsuarez20@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://facebook.com/mathewsuarez21" target="_blank">
     <img src="https://img.shields.io/badge/Matthew%20Suarez-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
