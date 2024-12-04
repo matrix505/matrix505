@@ -29,13 +29,15 @@
  <hr/>
  
 <h3 align="center">Programming Languages & Frameworks</h3>
-<div align="left">
+<div align="center">
     <img  src="https://skillicons.dev/icons?i=java,python,php,html,css,javascript" />
     <img src="https://skillicons.dev/icons?i=bootstrap,mysql" /><br>
 </div>
 <br/>
 <h3 align="center">Tools</h3>
+<div align="center">
 <img src="https://skillicons.dev/icons?i=vscode" /><br>
+</div>
 <br/>
 <hr/>
 
