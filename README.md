@@ -7,12 +7,14 @@
 <h3 align="center">Studies at Mapua Malayan Colleges Laguna</h3>
 
 <br/>
+<br/>
 
 <div align="left">
  
  🌱 I’m currently learning **HTML, CSS, JavaScript**
 
  </div>
+ <br/>
 
  <h3> Contact me on: </h3>
 <div align="left"> 
@@ -29,16 +31,13 @@
 
  <hr/>
  
-<h3 align="center">Programming Languages & Frameworks</h3>
-<br/>
-<div align="center">
-    <img  src="https://skillicons.dev/icons?i=java,python,php,html,css,javascript" />
+<h3 align="left">Programming Languages & Frameworks</h3>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=java,python,php,html,css,javascript" />
     <img src="https://skillicons.dev/icons?i=bootstrap,mysql" /><br>
 </div>
-<br/>
-<h3 align="center">Tools</h3>
-<br/>
-<div align="center">
+<h3 align="left">Tools</h3>
+<div align="left">
 <img src="https://skillicons.dev/icons?i=vscode" /><br>
 </div>
 <br/>
@@ -48,7 +47,7 @@
   <h3>Contributions</h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <hr/>
