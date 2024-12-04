@@ -13,8 +13,9 @@
  🌱 I’m currently learning **HTML, CSS, JavaScript**
 
  </div>
- 
-<div align="center"> 
+
+ <h3> Contact me on: </h3>
+<div align="left"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -29,12 +30,14 @@
  <hr/>
  
 <h3 align="center">Programming Languages & Frameworks</h3>
+<br/>
 <div align="center">
     <img  src="https://skillicons.dev/icons?i=java,python,php,html,css,javascript" />
     <img src="https://skillicons.dev/icons?i=bootstrap,mysql" /><br>
 </div>
 <br/>
 <h3 align="center">Tools</h3>
+<br/>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=vscode" /><br>
 </div>
