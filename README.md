@@ -3,10 +3,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=40&duration=3000&pause=1000&color=DC3BF7&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I%27m+Matt!;" />
 </h1>
-
-<h3 align="center">
-    Currently working as a Web Developer.
-</h3>
  <br/>
 
  <h3> Contact me on: </h3>
