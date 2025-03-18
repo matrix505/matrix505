@@ -4,19 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=40&duration=3000&pause=1000&color=DC3BF7&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I%27m+Matt!;" />
 </h1>
  <br/>
-
- <h3> Contact me on: </h3>
-<div align="left"> 
-  <a href="mailto:mathewsuarez20@gmail.com">
-    <img src="https://img.shields.io/badge/mathewsuarez20@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://facebook.com/mathewsuarez21" target="_blank">
-    <img src="https://img.shields.io/badge/Matthew%20Suarez-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
  <hr/>
 <h3 align="left">Programming Languages & Frameworks</h3>
 <div align="left">
