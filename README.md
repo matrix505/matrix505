@@ -7,18 +7,6 @@
 <h3 align="center">
     Currently working as a Web Developer.
 </h3>
-
-<div align="left">
-    <h3>Currently status</h3>
-
- <ul>
-     <li>I love coding so much</li>
-     <li>1st Year BS Computer Science</li>
-     <li>I’m currently learning **Git, HTML, CSS, JavaScript**</li>
- </ul>
- 
-
- </div>
  <br/>
 
  <h3> Contact me on: </h3>
