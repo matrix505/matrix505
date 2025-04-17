@@ -12,7 +12,10 @@
 </div>
 <h3 align="left">Tools</h3>
 <div align="left">
-<img src="https://skillicons.dev/icons?i=vscode" /><br>
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=pycharm" />
+<img src="https://skillicons.dev/icons?i=notion" />
+    <br>
 </div>
 <br/>
 <hr/>
