@@ -7,14 +7,13 @@
  <hr/>
 <h3 align="left">Programming Languages & Frameworks</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=java,python,php,html,css,javascript,csharp" />
+    <img src="https://skillicons.dev/icons?i=java,python,php,html,css,javascript,c#" />
     <img src="https://skillicons.dev/icons?i=bootstrap,mysql" /><br>
 </div>
 <h3 align="left">Tools</h3>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=pycharm" />
-<img src="https://skillicons.dev/icons?i=notion" />
+<img src="https://skillicons.dev/icons?i=visualstudio" />
     <br>
 </div>
 <br/>
