@@ -7,7 +7,7 @@
  <hr/>
 <h3 align="left">Programming Languages & Frameworks</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=java,python,php,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=java,python,php,html,css,javascript,csharp" />
     <img src="https://skillicons.dev/icons?i=bootstrap,mysql" /><br>
 </div>
 <h3 align="left">Tools</h3>
