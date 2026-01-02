@@ -19,16 +19,3 @@
 </div>
 <br/>
 <hr/>
-
-<div align="center">
-  <h3>Contributions</h3>
-  <img src="https://raw.githubusercontent.com/matrix505/matrix505/output/github-snake-dark.svg" alt="Snake animation" />
-  
-</div>
-<hr/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=matrix505&theme=chalk&column=-1&row=1&margin-w=10&margin-h=6&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
-</div>
-<br/><br/>
-<br/>
