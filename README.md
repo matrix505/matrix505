@@ -28,7 +28,7 @@
 <hr/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=matrix505&theme=chalk&column=-1&row=1&margin-w=10&margin-h=6&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
+  <img src="https://[github-profile-trophy.vercel.app?username=matrix505&theme=chalk&column=-1&row=1&margin-w=10&margin-h=6&no-bg=false&no-frame=false&order=4](https://github-profile-trophy.vercel.app/?username=matrix505&theme=chalk&column=-1&row=1&margin-w=10&margin-h=6&no-bg=false&no-frame=false&order=4)" height="150" alt="trophy graph"/>
 </div>
 <br/><br/>
 <br/>
