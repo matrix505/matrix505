@@ -6,7 +6,7 @@
  <br/>
  <hr/>
  -->
-<h3 align="left">Programming Languages & Frameworks</h3>
+<h3 align="left">Tech Stack</h3>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=java,python,php,html,css,javascript,cs" />
     <img src="https://skillicons.dev/icons?i=bootstrap,mysql" /><br>
