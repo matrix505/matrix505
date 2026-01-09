@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=/matrix505.matrix505"/>
 
-<p>Hello, I am Matthew Suarez, Aspiring Software Engineer aiming for Full-stack development. As fresh developer, I currently do a lot of tech stuff includes Web development, Practice of App development, and I learn to adopt the emerging AI era.</p>
+<p>Hello, I am Matthew Suarez, Aspiring Software Engineer aiming for Full-stack development. As fresh developer, I currently do a lot of tech stuff includes Web development, Practice of App development, and learning to adopt the new era of computing and also implementation of emerging Artifical Intelligence.</p>
 <!-- <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=40&duration=3000&pause=1000&color=DC3BF7&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I%27m+Matt!;" />
 </h1>
