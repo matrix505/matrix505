@@ -9,7 +9,7 @@
  -->
 <h3 align="left">Tech Stack</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,cs,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,csharp,mysql" />
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" /><br>
 </div>
 <h3 align="left">Tools</h3>
