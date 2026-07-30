@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=/matrix505.matrix505"/>
-<h2>Hola 👋</h2>
+<h4>Hola 👋</h4>
 
 <!-- <p>I'm from the Philippines</p> -->
 <!-- <div align="left">
